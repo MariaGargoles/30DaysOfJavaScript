@@ -29,6 +29,8 @@ Find the length of python and jargon and make a falsy comparison statement.
 10- true
 11- false
 
+12-
+
 */
 
 
