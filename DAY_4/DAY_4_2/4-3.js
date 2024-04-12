@@ -13,7 +13,7 @@
     Friday is a working day. */
 
     let weekend = ['saturday', 'sunday'];
-    let workDay = ['monday', 'thuesday', 'wednesday','thursday', 'friday' ];
+    
 
     let day = prompt("What is the day today? ");
     let tday = day.toLowerCase();
