@@ -43,5 +43,5 @@ Print the array using console.log()*/
 //Declare an array called mixedDataTypes, put different data types in the array and find the length of the array. 
 //The array size should be greater than 5  
 
-const mixedDataTypes = ['9', 'A', '5.9'];
-console.log(mixedDataType.length)
+const mixedDataTypes = ['9', 'A', '5.9', 'true', 'Mix'];
+console.log(mixedDataTypes.length);
